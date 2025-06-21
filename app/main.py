@@ -1,8 +1,8 @@
 import os
 import cv2
 import numpy as np
-from app.models.generate_idcard_template import IDCardTemplateGenerator
-from app.preprocess.image_preprocessing import ImagePreprocessor
+from models.generate_idcard_template import IDCardTemplateGenerator
+from preprocess.image_preprocessing import ImagePreprocessor
 
 def main():
     """메인 실행 함수"""

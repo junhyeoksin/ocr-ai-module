@@ -1,0 +1,30 @@
+# Core Computer Vision Libraries
+opencv-python>=4.8.0
+numpy>=1.21.0
+scikit-image>=0.19.0
+
+# Image Processing & Visualization
+matplotlib>=3.5.0
+Pillow>=9.0.0
+
+# Deep Learning Framework (for future OCR model)
+torch>=1.12.0
+torchvision>=0.13.0
+
+# OCR Libraries
+pytesseract>=0.3.9
+easyocr>=1.6.0
+
+# Data Generation
+trdg>=1.8.0  # TextRecognitionDataGenerator
+Faker>=15.0.0  # For generating fake data
+
+# Utility Libraries
+tqdm>=4.64.0  # Progress bars
+opencv-contrib-python>=4.8.0  # Additional OpenCV modules
+pyinpaint
+
+# Development & Testing
+pytest>=7.0.0
+black>=22.0.0  # Code formatting
+flake8>=5.0.0  # Linting 
