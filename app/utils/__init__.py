@@ -1,0 +1,1 @@
+# Utils package for OCR AI Module 

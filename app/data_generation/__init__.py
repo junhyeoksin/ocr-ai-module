@@ -1,0 +1,1 @@
+# Data Generation package for OCR AI Module 
